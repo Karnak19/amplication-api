@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.7.0",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "u5tqtlpe",
+    "id": "ckqgovqcc10153631bs64h2b1l4w",
+    "url": "https://app.amplication.com/ckqgovqcc10153631bs64h2b1l4w",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "ampli",
+      "dbPassword": "postgres",
+      "dbPort": 5432,
+      "dbUser": "postgres",
+      "appId": "ckqgovqcc10153631bs64h2b1l4w"
+    }
+  }
+}
